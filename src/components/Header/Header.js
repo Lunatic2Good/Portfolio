@@ -30,7 +30,7 @@ const Header = () => {
             />
         </h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea suscipit beatae delectus deserunt iste, enim sit dolorem nulla, impedit sed ex? Aperiam ullam sapiente asperiores ipsa laboriosam vitae autem sint!
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea suscipit beatae delectus deserunt iste, enim sit dolorem nulla, impedit sed ex? Aperiam ullam sapiente
         </p>
 
         {/* payment links */}

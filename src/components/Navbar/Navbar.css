@@ -41,7 +41,6 @@ nav ul li:hover {
    nav ul {
       flex-direction: row;
    }
-
    nav ul li {
       padding: 10px;
    }
